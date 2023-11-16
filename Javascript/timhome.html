@@ -1,14 +1,22 @@
 <!DOCTYPE HTML>
 
+<html>
 <head>
     <title>COP1801_Javscript</title>
-    <meta charset="UTF-8">    	
-</head>
+    <meta charset="UTF-8">
+    <script src="variableMods.js" defer></script>
 
+    <script>
+        // Calls functions when the page loads
+        window.onload = function () {
+            var userName = getUserName();//prompts the user for their name and shows it with alert
+            calcCircle();//Prompts the user for their favorite number and prints the area of a circle with that radius
+        };
+    </script>
+</head>
 <body>
     <h1>Welcome to Javascript - This header was made with HTML</h1><!--This line uses HTML to diaply a Header in the largest size (h1)-->
-	<script>
-	    console.log("This message was sent to the console with JavaScript using console.log");//This is a Javascript comment, // is used instead of <!-- HTML comments -->
-	</script>
+    <h2></h2>
+    <button onclick="calcCircle()">Do Some Math</button><!--Give the user a button to try a different number-->
 </body>
 </html>
