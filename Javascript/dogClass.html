@@ -6,13 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="dogClass.js" defer></script>
 
-    <script>// Calls functions when the page loads
+    <script>
+        // Calls functions when the page loads
         window.onload = function () {
-            createDogInstance();//instantiates a dog object and shows the information with 'alert'
-            dog.displayInfo();//creates and object literal and shows the information with 'alert'
-        };</script>
+            let gecko = createDogInstance('Gecko', 'Duckman', "My real name is Sparky, Duckman stole me and changed my name to Gecko.", 'Mutt', true);
+            let astro = createDogInstance('Astro', 'The Jetsons', "I get to ride in flying cars, do you?", 'Great Dane', false);
+            let bitzer = createDogInstance('Bitzer', 'Shaun the Sheep', "I am a friend of Shaun's.", 'Sheepdog', true);
+
+            let dogArray = [gecko, astro, bitzer]; // store instances of the Dog class in the array
+
+            let input = prompt("Type a dog's name from list to hear what they have to say\
+                                   \n() Gecko\
+                                   \n() Astro\
+                                   \n() Bitzer");
+            let index = dogArray.findIndex(function (dog) {
+                return dog.name === input;
+            });
+
+            if (index !== -1) {
+                let selectedDog = dogArray[index];
+                selectedDog.displayProperties(); // Now selectedDog is an instance of Dog, so this should work
+            }
+            else {
+                alert("You entered: '" + input + "', this is not a valid option.")
+            }
+        };
+    </script>
 </head>
 <body>
-    <p>Please refresh the page to learn about Gecko the purple dog from Duckman</p><!--Placeholder for behind the pop-up-->
+    <p>Please refresh the page to learn more about dogs from TV shows.</p><!--Placeholder for behind the pop-up-->
 </body>
 </html>
