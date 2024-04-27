@@ -1,0 +1,15 @@
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\bin\Debug\net8.0\DVDCollection.exe
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\bin\Debug\net8.0\DVDCollection.deps.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\bin\Debug\net8.0\DVDCollection.runtimeconfig.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\bin\Debug\net8.0\DVDCollection.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\bin\Debug\net8.0\DVDCollection.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.AssemblyInfoInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.AssemblyInfo.cs
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.csproj.CoreCompileInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.sourcelink.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\refint\DVDCollection.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\DVDCollection.genruntimeconfig.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DVDCollection\obj\Debug\net8.0\ref\DVDCollection.dll

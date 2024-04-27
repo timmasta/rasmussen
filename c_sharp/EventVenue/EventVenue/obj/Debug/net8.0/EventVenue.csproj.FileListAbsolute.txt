@@ -1,0 +1,15 @@
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\bin\Debug\net8.0\EventVenue.exe
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\bin\Debug\net8.0\EventVenue.deps.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\bin\Debug\net8.0\EventVenue.runtimeconfig.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\bin\Debug\net8.0\EventVenue.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\bin\Debug\net8.0\EventVenue.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.AssemblyInfoInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.AssemblyInfo.cs
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.csproj.CoreCompileInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.sourcelink.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\refint\EventVenue.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\EventVenue.genruntimeconfig.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\EventVenue\EventVenue\obj\Debug\net8.0\ref\EventVenue.dll

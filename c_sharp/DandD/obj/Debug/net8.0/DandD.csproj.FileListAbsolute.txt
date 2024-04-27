@@ -1,0 +1,15 @@
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\bin\Debug\net8.0\DandD.exe
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\bin\Debug\net8.0\DandD.deps.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\bin\Debug\net8.0\DandD.runtimeconfig.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\bin\Debug\net8.0\DandD.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\bin\Debug\net8.0\DandD.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.AssemblyInfoInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.AssemblyInfo.cs
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.csproj.CoreCompileInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.sourcelink.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\refint\DandD.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\DandD.genruntimeconfig.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\obj\Debug\net8.0\ref\DandD.dll

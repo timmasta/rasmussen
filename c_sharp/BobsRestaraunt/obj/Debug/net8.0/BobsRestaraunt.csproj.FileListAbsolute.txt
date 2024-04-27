@@ -1,0 +1,15 @@
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\bin\Debug\net8.0\BobsRestaraunt.exe
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\bin\Debug\net8.0\BobsRestaraunt.deps.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\bin\Debug\net8.0\BobsRestaraunt.runtimeconfig.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\bin\Debug\net8.0\BobsRestaraunt.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\bin\Debug\net8.0\BobsRestaraunt.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.AssemblyInfoInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.AssemblyInfo.cs
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.csproj.CoreCompileInputs.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.sourcelink.json
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\refint\BobsRestaraunt.dll
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.pdb
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\BobsRestaraunt.genruntimeconfig.cache
+C:\Users\16512\Desktop\rasmussen\c_sharp\BobsRestaraunt\obj\Debug\net8.0\ref\BobsRestaraunt.dll
