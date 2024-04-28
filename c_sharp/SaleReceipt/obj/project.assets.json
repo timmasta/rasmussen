@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\SaleReceipt.csproj",
+      "projectUniqueName": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\SaleReceipt.csproj",
       "projectName": "SaleReceipt",
-      "projectPath": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\SaleReceipt.csproj",
+      "projectPath": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\SaleReceipt.csproj",
       "packagesPath": "C:\\Users\\16512\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\obj\\",
+      "outputPath": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

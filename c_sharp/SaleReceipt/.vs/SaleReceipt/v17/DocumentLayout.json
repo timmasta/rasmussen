@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\",
+  "WorkspaceRootPath": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\c_sharp\\salereceipt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,12 +43,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Validate.cs",
+              "RelativeDocumentMoniker": "Validate.cs",
+              "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Validate.cs",
+              "RelativeToolTip": "Validate.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T02:46:58.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T21:22:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAqwJEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:59:20.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\c_sharp\\SaleReceipt\\Program.cs",
+              "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJkAAAAAAAAAAAAiwKEAAAAAAAAA",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAqwK0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T03:51:20.394Z",
               "EditorCaption": ""
