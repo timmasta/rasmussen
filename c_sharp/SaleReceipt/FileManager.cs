@@ -153,4 +153,24 @@ public class FileManager
             Console.WriteLine("Error removing customer entry.");
         }
     }
+
+    public static void DisplayFileContents()
+    {
+        try
+        {
+            // Read all lines from the CSV file
+            using (StreamReader reader = new StreamReader(csvFile))
+            {
+                string? line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    Console.WriteLine(line);
+                }
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred while reading the file: {ex.Message}");
+        }
+    }
 }

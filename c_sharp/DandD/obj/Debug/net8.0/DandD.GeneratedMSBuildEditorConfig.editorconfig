@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DandD
-build_property.ProjectDir = C:\Users\16512\Desktop\rasmussen\c_sharp\DandD\
+build_property.ProjectDir = C:\Users\16512\Desktop\rasmussen\public-github\c_sharp\DandD\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -65,6 +65,12 @@ namespace SalesReceipt
                             case 4:
                                 exitLoop = true;//exit program loop
                                 break;
+                            case 5:
+                                if (FileManager.CheckForFile())
+                                {
+                                    FileManager.DisplayFileContents();
+                                }
+                                break;
                             default:
                                 Console.WriteLine("Please enter a valid option (1-4).");
                                 break;

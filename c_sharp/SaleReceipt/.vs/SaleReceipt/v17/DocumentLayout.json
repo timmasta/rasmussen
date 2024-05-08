@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|c:\\users\\16512\\desktop\\rasmussen\\public-github\\c_sharp\\salereceipt\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C49B1F8-131C-426F-957D-0FA67D0A9403}|SaleReceipt.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +42,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Validate.cs",
               "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Validate.cs",
               "RelativeDocumentMoniker": "Validate.cs",
               "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Validate.cs",
               "RelativeToolTip": "Validate.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T02:46:58.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -63,31 +63,30 @@
               "RelativeToolTip": "Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T21:22:11.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T21:22:11.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FileManager.cs",
               "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\FileManager.cs",
               "RelativeDocumentMoniker": "FileManager.cs",
               "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\FileManager.cs",
               "RelativeToolTip": "FileManager.cs",
-              "ViewState": "AQIAAGsAAAAAAAAAAAAqwJEAAAAEAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAA9wK4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T20:59:20.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\16512\\Desktop\\rasmussen\\public-github\\c_sharp\\SaleReceipt\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJoAAAAAAAAAAAAqwK0AAAAJAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0gAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T03:51:20.394Z",
               "EditorCaption": ""

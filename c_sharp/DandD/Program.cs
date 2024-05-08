@@ -5,8 +5,28 @@ class Program
     {
         string? userInput;
         printGreeting();
-        createFighter();
-        createWizard();
+        Print("\nBelow is more information on the character types you can create:\n");
+
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+        Console.WriteLine("FIGHTER:");
+        Console.ResetColor();
+        FighterInfo fighterInfo = new FighterInfo();
+        fighterInfo.Introduction();
+        fighterInfo.GiveCharDetails();
+        Print("");
+        Console.ResetColor();
+
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+        Console.WriteLine("PALADIN:");
+        Console.ResetColor();
+        PaladinInfo paladinInfo = new PaladinInfo();
+        paladinInfo.Introduction();
+        paladinInfo.GiveCharDetails();
+        
+
+        //createDefaultCharacter();
+        //createFighter();
+        //createWizard();
 
 
         void createDefaultCharacter()
@@ -212,12 +232,16 @@ class Program
 
         void printGreeting()
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
             Print("_____________________________________");
+            Console.ResetColor();
             Print("Welcome to the Tim's D and D program!");
             Print("You will create a character to use in the game.");
             Print("The program with gather the player information including what type of character they are.");
             Print("When you are done, the information will be output to the terminal.");
+            Console.ForegroundColor = ConsoleColor.Blue;
             Print("__________________________________________________________________");
+            Console.ResetColor();
         }
     }
 }
@@ -245,5 +269,36 @@ public class Wizard : Character
     public string? ArcaneSpellOne { get; set; }
     public string? ArcaneSpellTwo { get; set; }
     public string? PowerType { get; set; }
+}
+
+abstract class CharacterInfo
+{
+    public void Introduction()
+    {
+        Console.WriteLine("You are looking at the fighter style classes. Be warned, you will be in the thick of all the fighting!");
+    }
+
+    //abstract function will be overridden with character specific details
+    public abstract void GiveCharDetails();
+}
+
+class FighterInfo : CharacterInfo
+{
+    public override void GiveCharDetails()
+    {        
+        Console.WriteLine("The fighter is one of the standard classes in Dungeons & Dragons.");
+        Console.WriteLine("A fighter is a versatile, weapons-oriented warrior who fights using skill, strategy and tactics");
+        Console.WriteLine("Fighter is a generic and broad class but can be tailored the players ideas.");
+    }
+}
+
+class PaladinInfo : CharacterInfo
+{
+    public override void GiveCharDetails()
+    {        
+        Console.WriteLine("The paladin is a holy knight.");
+        Console.WriteLine("Paladins crusade on behalf of their chosen deity and could be either good or evil (anti-paladin).");
+        Console.WriteLine("Because the deity grants their powers, they are also considered a limited divine spellcaster.");
+    }
 }
 
