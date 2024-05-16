@@ -1,2 +1,0 @@
-# rasmussen
-school-projects
