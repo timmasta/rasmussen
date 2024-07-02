@@ -1,0 +1,49 @@
+Patient Name: Tom Jones
+Patient Weight: 184.0 lbs
+Patient Height: 70.0 inches
+Patient DOB: Thu Sep 28 22:25:00 CDT 2000
+Patient BMI: 26.398367346938777
+Patient Insurance Rate: High
+
+Patient Name: Maddie Jo
+Patient Weight: 78.0 lbs
+Patient Height: 55.0 inches
+Patient DOB: Mon Jul 02 15:31:00 CST 143
+Patient BMI: 18.12694214876033
+Patient Insurance Rate: Low
+
+Patient Name: Roman Charles
+Patient Weight: 100.0 lbs
+Patient Height: 66.0 inches
+Patient DOB: Sat Mar 28 22:33:00 CDT 2015
+Patient BMI: 16.1386593204775
+Patient Insurance Rate: Low
+
+Patient Name: Sonny Day
+Patient Weight: 24.0 lbs
+Patient Height: 20.0 inches
+Patient DOB: Wed Jun 28 22:34:00 CDT 2017
+Patient BMI: 42.18
+Patient Insurance Rate: Highest
+
+Patient Name: Tim Mastarone
+Patient Weight: 171.0 lbs
+Patient Height: 72.0 inches
+Patient DOB: Thu Jun 28 22:34:00 CDT 1984
+Patient BMI: 23.18923611111111
+Patient Insurance Rate: Low
+
+Patient Name: Adam J
+Patient Weight: 194.0 lbs
+Patient Height: 75.0 inches
+Patient DOB: Thu Oct 07 23:15:00 CDT 1993
+Patient BMI: 24.24568888888889
+Patient Insurance Rate: Low
+
+Patient Name: Adam J
+Patient Weight: 194.0 lbs
+Patient Height: 75.0 inches
+Patient DOB: Thu Oct 07 23:19:00 CDT 1993
+Patient BMI: 24.24568888888889
+Patient Insurance Rate: Low
+

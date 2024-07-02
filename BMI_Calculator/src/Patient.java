@@ -1,4 +1,4 @@
-public class Patient {
+public class Patient implements PatientGuidelines {
     private String name;
     private double weight;
     private String dateOfBirth;
