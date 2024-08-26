@@ -22,9 +22,11 @@ public class Calculations {
             paymentCategory = "Highest";
         }
         else{
-            //bmi is somehow negative, something went wrong
+            //BMI is somehow negative, something went wrong
             paymentCategory = "BMI Out of Range";
+            AppLog.getLogger().info("An error occured. BMI must have been less than zero.");
         }
+        AppLog.getLogger().info("BMI calculated returning the payment category.");
         return paymentCategory;
     }
 }

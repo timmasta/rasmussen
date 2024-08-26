@@ -1,0 +1,18 @@
+Aug 25, 2024 8:45:41 PM UserEntry lambda$1
+INFO: Application Started, User form loaded
+Aug 25, 2024 8:48:54 PM Calculations getPaymentCategory
+INFO: BMI calculated returning the payment category.
+Aug 25, 2024 8:49:41 PM Calculations getPaymentCategory
+INFO: BMI calculated returning the payment category.
+Aug 25, 2024 8:49:41 PM UserEntry handleSubmit
+INFO: Form data has been processed, information has been saved.
+Aug 25, 2024 8:49:46 PM UserEntry lambda$1
+INFO: Application Started, User form loaded
+Aug 25, 2024 8:49:55 PM Calculations getPaymentCategory
+INFO: BMI calculated returning the payment category.
+Aug 25, 2024 8:50:05 PM Calculations getPaymentCategory
+INFO: BMI calculated returning the payment category.
+Aug 25, 2024 8:50:05 PM UserEntry handleSubmit
+INFO: Form data has been processed, information has been saved.
+Aug 25, 2024 8:50:08 PM Calculations getPaymentCategory
+INFO: BMI calculated returning the payment category.

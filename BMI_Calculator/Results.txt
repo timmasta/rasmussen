@@ -47,3 +47,38 @@ Patient DOB: Thu Oct 07 23:19:00 CDT 1993
 Patient BMI: 24.24568888888889
 Patient Insurance Rate: Low
 
+Patient Name: tim
+Patient Weight: 160.0 lbs
+Patient Height: 95.0 inches
+Patient DOB: Sun Aug 25 20:24:42 CDT 2024
+Patient BMI: 12.463157894736844
+Patient Insurance Rate: Low
+
+Patient Name: tim
+Patient Weight: 160.0 lbs
+Patient Height: 95.0 inches
+Patient DOB: Sun Aug 25 20:24:42 CDT 2024
+Patient BMI: 12.463157894736844
+Patient Insurance Rate: Low
+
+Patient Name: tim
+Patient Weight: 160.0 lbs
+Patient Height: 95.0 inches
+Patient DOB: Sun Aug 25 20:24:42 CDT 2024
+Patient BMI: 12.463157894736844
+Patient Insurance Rate: Low
+
+Patient Name: Bob Smith
+Patient Weight: 180.0 lbs
+Patient Height: 80.0 inches
+Patient DOB: Sun Aug 25 20:45:41 CDT 2024
+Patient BMI: 19.771875
+Patient Insurance Rate: Low
+
+Patient Name: Adam J
+Patient Weight: 140.0 lbs
+Patient Height: 50.0 inches
+Patient DOB: Sun Aug 25 20:49:46 CDT 2024
+Patient BMI: 39.368
+Patient Insurance Rate: Highest
+

@@ -52,6 +52,7 @@ public class UserEntry {
         } catch (IllegalArgumentException e) {
             System.err.println("Error setting component colors: " + e.getMessage());
         }
+                
     }
 
     private void customizeComponentColors() {
@@ -87,8 +88,10 @@ public class UserEntry {
             // Handle form submission, e.g., print values or validate input
             JOptionPane.showMessageDialog(null, message);
             saveToFile(patient);
+            AppLog.getLogger().info("Form data has been processed, information has been saved.");
         } catch (Exception e) {
             JOptionPane.showMessageDialog(null, "An error occurred while processing the form: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+            AppLog.getLogger().info("Form data was not processed, submit failed.");
         }
     }
 
@@ -117,6 +120,7 @@ public class UserEntry {
     }
 
     public static void main(String[] args) {
+    	
         // Set up the Swing UI with error handling
         SwingUtilities.invokeLater(() -> {
             try {
@@ -126,8 +130,11 @@ public class UserEntry {
                 frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
                 frame.pack();
                 frame.setVisible(true);
+                
+                AppLog.getLogger().info("Application Started, User form loaded");
             } catch (Exception e) {
                 JOptionPane.showMessageDialog(null, "An error occurred while setting up the UI: " + e.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                AppLog.getLogger().info("Error loading UI form.");
             }
         });
 
